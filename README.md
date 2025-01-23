@@ -2,6 +2,8 @@
 
 A game engine includes isometric graphic by glfw library, level-by-level gameplay, simple physics for rect-shaped objects and point-and-click characters' manipulations.
 
+I prefer GLFW as graphic library and [FMOD-Audio-Engine](https://github.com/rosshoyt/FMOD-Audio-Engine) because of simple implementation and due to the amount of reference material.
+
 ### Content: 
 
 1. Developing progress;
@@ -10,12 +12,12 @@ A game engine includes isometric graphic by glfw library, level-by-level gamepla
 
 ## Developing progress
 
-- [ ] Graphic library
+- [ ] Graphic's implementation with GLFW
 - [ ] Objects' classes
 - [ ] Physics
 - [ ] Sprites and animation support
 - [ ] Level class
-- [ ] Level generator
+- [ ] Structures constructor GUI
 
 ## Features done:
 
