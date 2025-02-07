@@ -4,6 +4,8 @@ A game engine includes isometric graphic by glfw library, level-by-level gamepla
 
 I prefer GLFW as graphic library and [FMOD-Audio-Engine](https://github.com/rosshoyt/FMOD-Audio-Engine) because of simple implementation and due to the amount of reference material.
 
+You can track this with [Kanban board](https://evstropov.kaiten.ru/space/538381/boards).
+
 ### Content: 
 
 1. Developing progress;
