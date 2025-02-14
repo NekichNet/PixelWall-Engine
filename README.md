@@ -1,6 +1,6 @@
 # PixelWall-Engine
 
-A game engine includes isometric graphic by glfw library, level-by-level gameplay, simple physics for rect-shaped objects and point-and-click characters' manipulations.
+A game engine includes isometric graphic by glfw library, level-by-level gameplay, simple physics for rect-shaped objects, point-and-click characters' manipulations and two editor apps for objects and structures.
 
 I prefer GLFW as graphic library and [FMOD-Audio-Engine](https://github.com/rosshoyt/FMOD-Audio-Engine) because of simple implementation and due to the amount of reference material.
 
