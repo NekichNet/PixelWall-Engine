@@ -399,3 +399,4 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 /Engine/glfw-3-4
+/Engine/glfw-3.4.bin.WIN64/glfw-3.4.bin.WIN64
