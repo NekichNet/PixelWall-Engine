@@ -19,9 +19,16 @@ You can track this with [Kanban board](https://evstropov.kaiten.ru/space/538381/
 - [ ] Physics
 - [ ] Sprites and animation support
 - [ ] Level class
-- [ ] Structures constructor GUI
+- [ ] Structures constructor GUI app
+- [ ] Objects and items editor GUI app
 
 ## Features done:
+
+## Demo references:
+
+![Structures constructor](11_02_редактор_структур.png "Structures constructor")
+![Objects editor](11_02_редактор_объектов.png "Objects editor")
+![Engine test demo](11_02_демо_движка.png "Engine test")
 
 ## Info for developers/contributors:
 - Release versions contained in *master*;
