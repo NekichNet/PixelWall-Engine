@@ -2,6 +2,9 @@
 
 A game engine includes isometric graphic by glfw library, level-by-level gameplay, simple physics for rect-shaped objects, point-and-click characters' manipulations and two editor apps for objects and structures.
 
+![Project structure](demo%20references/Component%20Diagram.png "Project structure")
+![Use-case diagram](demo%20references/Usecase%20diagram.png "Use-case diagram")
+
 I prefer GLFW as graphic library and [FMOD-Audio-Engine](https://github.com/rosshoyt/FMOD-Audio-Engine) because of simple implementation and due to the amount of reference material.
 
 You can track this with [Kanban board](https://evstropov.kaiten.ru/space/538381/boards).
@@ -26,9 +29,9 @@ You can track this with [Kanban board](https://evstropov.kaiten.ru/space/538381/
 
 ## Demo references:
 
-![Structures constructor](11_02_редактор_структур.png "Structures constructor")
-![Objects editor](11_02_редактор_объектов.png "Objects editor")
-![Engine test demo](11_02_демо_движка.png "Engine test")
+![Structures constructor](demo%20references/11_02_редактор_структур.png "Structures constructor")
+![Objects editor](demo%20references/11_02_редактор_объектов.png "Objects editor")
+![Engine test demo](demo%20references/11_02_демо_движка.png "Engine test")
 
 ## Info for developers/contributors:
 - Release versions contained in *master*;
