@@ -5,6 +5,10 @@ A game engine includes isometric graphic by glfw library, level-by-level gamepla
 ![Project structure](demo%20references/Component%20diagram.png "Project structure")
 ![Use-case diagram](demo%20references/Usecase%20diagram.png "Use-case diagram")
 
+Some classes diagrams:
+
+![Classes diagram](demo%20references/classes.png "Classes diagram")
+
 I prefer GLFW as graphic library and [FMOD-Audio-Engine](https://github.com/rosshoyt/FMOD-Audio-Engine) because of simple implementation and due to the amount of reference material.
 
 You can track this with [Kanban board](https://evstropov.kaiten.ru/space/538381/boards).
